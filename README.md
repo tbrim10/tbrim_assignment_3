@@ -6,10 +6,10 @@ Graduating_semester = 'Spring 2028'
 Major = 'Computer Science'
 
 # Academic Data (lists)
-Current_courses = ['COMP 163','MATH 150','ENG 101','HIS 105']
-Completed_courses = ['Biology','Chemistry','Calculus','Spanish II','World History']
-Credit_hours = [3, 3, 3, 3] # corresponding to current courses
-Gpa_history = [3.2, 3.6, 3.4, 3.7] #semester GPAs as floats
+Current_courses = ['COMP 163','MATH 131','LIBS 202','HIST 207''SPCH 250']
+Completed_courses = []
+Credit_hours = [3, 4, 3, 3, 3] # corresponding to current courses
+Gpa_history = [] #semester GPAs as floats
 
 # Contact Information Storage (tuples)
 emergency_contact = ('Mom','Hannah Smith','704-555-0199')
