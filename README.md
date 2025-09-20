@@ -8,8 +8,8 @@ Major = 'Computer Science'
 # Academic Data (lists)
 Current_courses = ['COMP 163','MATH 150','ENG 101','HIS 105']
 Completed_courses = ['Biology','Chemistry','Calculus','Spanish II','World History']
-Credit_hours = [3, 3, 3, 3] # corresponding to current courses
-Gpa_history = [3.2, 3.6, 3.4, 3.7] #semester GPAs as floats
+Credit_hours = [3, 3, 3, 3]
+Gpa_history = [3.2, 3.6, 3.4, 3.7]
 
 # Contact Information Storage (tuples)
 emergency_contact = ('Mom','Hannah Smith','704-555-0199')
@@ -49,9 +49,9 @@ total_media_followers = instagram_info[2] + twitter_info[2]
 skills_comparison = len(current_skills) / len(skills_to_learn)
 entertainment_backlog_count = len(entertainment_backlog)
 
-print("=" * 64)
+print("=" * 50)
 print("              PERSONAL ACADEMIC & LIFE PORTFOLIO")
-print("=" * 64)
+print("=" * 50)
 
 # Print Personal Information section
 print(f"Student: {full_name} | Email: {Student_email}")
@@ -115,4 +115,4 @@ print(f"Entertainment Backlog: {entertainment_backlog_count} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
 
 # Print the footer
-print('=' * 64)
+print('=' * 50)
