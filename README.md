@@ -19,11 +19,11 @@ twitter_info = ('Twitter', 'jordandev', 127)
 birtday = ('Birthday', '5', '22', '2006')
 
 # Interest Tracking (sets)
-current_skills = {'Python basics', 'HTML','Problem solving', 'Time management','Photography'}
-skills_to_learn = {'JavaScript', 'Data structures', 'Git', 'Web design', 'Public speaking'}
-career_interest = {'Software development', 'Web development', 'Data science', 'Game development'}
-hobbies = {'Gaming', 'Photography', 'Reading', 'Soccer', 'Music'}
-entertainment_backlog = {'One Piece', 'Barry', 'Life', 'Incantation', 'Memento'}
+current_skills = {'Cooking', 'Basic car knowledge'}
+skills_to_learn = {'Python', 'Data structures', 'Git','Public speaking'}
+career_interest = {'Architectural Engineering','Civil Engineering'}
+hobbies = {'Gaming', 'Photography', 'Fishing', 'Hunting', ,Drawing','Reading', 'Soccer', 'Music'}
+entertainment_backlog = {'The First to die at the end'}
 
 #Organizational Mapping (dictionaries)
 course_credits = {'COMP 163': 3, 'MATH 150': 3, 'ENG 101': 3, 'HIS 105': 3}
