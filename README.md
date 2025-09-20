@@ -12,26 +12,26 @@ Credit_hours = [3, 4, 3, 3, 3] # corresponding to current courses
 Gpa_history = [] #semester GPAs as floats
 
 # Contact Information Storage (tuples)
-emergency_contact = ('Mom','Hannah Smith','704-555-0199')
-home_address = ('456 Oak Street', 'Charlotte','NC','28202')
-instagram_info = ('Instagram', '@jordan_codes', 312)
-twitter_info = ('Twitter', 'jordandev', 127)
-birtday = ('Birthday', '5', '22', '2006')
+emergency_contact = ('Mom','Ebony Horne','276-123-4567')
+home_address = ('P. Sherman', '42 Wallaby Way', 'Sydney','28202')
+instagram_info = ('Instagram', '@t2smoovee._', 979)
+twitter_info = ('Twitter', '', )
+birtday = ('Birthday', '10', '29', '2004')
 
 # Interest Tracking (sets)
 current_skills = {'Cooking', 'Basic car knowledge'}
 skills_to_learn = {'Python', 'Data structures', 'Git','Public speaking'}
 career_interest = {'Architectural Engineering','Civil Engineering'}
 hobbies = {'Gaming', 'Photography', 'Fishing', 'Hunting', ,Drawing','Reading', 'Soccer', 'Music'}
-entertainment_backlog = {'The First to die at the end'}
+entertainment_backlog = {'The First to die at the end','College football 26'}
 
 #Organizational Mapping (dictionaries)
-course_credits = {'COMP 163': 3, 'MATH 150': 3, 'ENG 101': 3, 'HIS 105': 3}
-course_professors = {'COMP 163': 'Prof. Rhodes', 'MATH 150': 'Dr. Lee', 'ENG 101': 'Dr. Martinez', 'HIS 105': 'Dr. Brown'}
-course_rooms = {'COMP 163': 'M-Eric 300', 'MATH 150': 'Marteena 201', 'ENG 101': 'Crosby 121', 'HIS 105': 'Crosby 210'}
-monthly_budget = {'Food': 450, 'Entertainment': 200, 'Books': 125, 'Transportation': 100}
-study_hours_per_subject = {'Programming': 10, 'Math': 8, 'English': 4, 'History': 3}
-contact_directory = {'Mom': '704-555-0199', 'Roommate': '336-555-7821', 'Academic Advisor': '336-334-5000'}
+course_credits = {'COMP 163': 3, 'MATH 131': 4, 'LIBS 202': 3, 'HIST 207': 3, 'SPCH 250': 3}
+course_professors = {'COMP 163': 'Prof. Rhodes', 'MATH 131': 'Dr.Chen', 'LIBS 202': 'Prof Cody', 'HIST 207': 'Prof Beale', 'SPCH 250': 'Prof Jones'}
+course_rooms = {'COMP 163': 'Gibbs 337', 'MATH 131': 'Marteena 214', 'LIBS 202': 'GCB 306', 'HIST 207': 'Gibbs 107','SPCH 250':'Online'}
+monthly_budget = {'Food': 175, 'Entertainment': 50, 'Books': 70, 'Transportation': 60}
+study_hours_per_subject = {'Programming': 2, 'Math': 2, 'Libs: 1, 'History': 3, 'Speech':0}
+contact_directory = {'Mom': '123-456-7895', 'Roommate': '456-789-1290', 'Academic Advisor': '336-678-0092'}
 
 #Calculations
 total_credits = sum(Credit_hours)
